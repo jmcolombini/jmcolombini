@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc44&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e64d&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffe6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Marcelo+Colombini;Tenho+16+anos+de+idade;Sou+de+Fortaleza,+Ceará;Estudo+informática+no+IFCE+Campus+Fortaleza;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
@@ -23,4 +23,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc44&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e64d&height=120&section=footer"/>
