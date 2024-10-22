@@ -9,7 +9,7 @@
 
 
 <h3  align="center">
- Linguagens que estudo
+ Tecnologias que estudo
   
 </h3>
 <div align="center">
