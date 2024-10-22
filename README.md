@@ -7,11 +7,20 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcolombini&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c2d5db&size=35&center=true&vCenter=true&width=1000&lines=Linguagens+que+estudo)](https://git.io/typing-svg)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Swift](https://img.shields.io/badge/-swift-0D1117?style=for-the-badge&logo=swift&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<h3  align="center">
+ Linguagens que estudo
+  
+</h3>
+<div align="center">
+<img height="43" width="43" src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" /> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" /> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFFFF"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/swift/FFFFFF"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/python/FFFFFF"/>    
+
+</div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
